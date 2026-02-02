@@ -1,0 +1,49 @@
+# API Keys 
+api_key: "XBCySeitxQCVZyfBKY"
+api_secret: "PZLzk7bd8KAhKTnfnMXaceeLWVyFuwk47igW"
+
+# Telegram
+telegram:
+  bot_token: "8385029203:AAEw9MIUVL2dNXjly1HQgHKY_rkAsdcK-yg"
+  chat_ids:
+    - 658484971
+    - 1642246482
+
+# Мульти-актив — список пар
+symbols:
+  - symbol: "ETHUSDT"
+    timeframe: "240"
+  - symbol: "SOLUSDT"
+    timeframe: "240"
+    use_full_strategy: true
+  - symbol: "BTCUSDT"
+    timeframe: "240"
+    use_full_strategy: false  # ← ТОЛЬКО ТРЕНД
+    leverage: 2
+    risk_percentage: 0.005
+  - symbol: "XAUTUSDT"
+    timeframe: "240"
+  - symbol: "BNBUSDT"
+    timeframe: "240"
+
+# Общие торговые настройки
+risk_percentage: 0.01          # 0.8% риска на сделку
+leverage: 2
+fee: 0.0011                     # комиссия Bybit
+atr_period: 14
+max_daily_drawdown_pct: 2.0     # 2% дневная просадка → сон
+
+# Параметры стратегий (используются в модулях)
+short_sma_period: 21
+long_sma_period: 55
+warmup_bars: 200
+cache_size: 200
+higher_timeframe: "240"         # ← ДОБАВЛЕНО
+
+# Режимы работы
+testnet: false
+demo: true
+dry_run: false                   # поставь false для реальной торговли
+
+# Логирование (20 = INFO)
+log_level: 20

@@ -1,0 +1,188 @@
+[
+  {
+    "timestamp": "2026-01-31T18:56:31.309313+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T18:56:33.292616+00:00",
+    "symbol": "SOLUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T18:56:37.178090+00:00",
+    "symbol": "BTCUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T18:56:37.363157+00:00",
+    "symbol": "XAUTUSDT",
+    "old_regime": "unknown",
+    "new_regime": "range"
+  },
+  {
+    "timestamp": "2026-01-31T19:24:19.788341+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T19:24:21.119037+00:00",
+    "symbol": "SOLUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T19:24:23.501962+00:00",
+    "symbol": "BTCUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T19:24:24.263840+00:00",
+    "symbol": "XAUTUSDT",
+    "old_regime": "unknown",
+    "new_regime": "range"
+  },
+  {
+    "timestamp": "2026-01-31T20:41:37.567028+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T20:41:38.094399+00:00",
+    "symbol": "SOLUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T20:41:43.130492+00:00",
+    "symbol": "BTCUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-01-31T20:41:45.077038+00:00",
+    "symbol": "XAUTUSDT",
+    "old_regime": "unknown",
+    "new_regime": "range"
+  },
+  {
+    "timestamp": "2026-02-01T13:26:03.730686+00:00",
+    "symbol": "SOLUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T13:26:04.082801+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T13:26:04.214064+00:00",
+    "symbol": "BTCUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T13:26:05.206794+00:00",
+    "symbol": "XAUTUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T13:41:16.080455+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T13:41:18.881356+00:00",
+    "symbol": "SOLUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T13:41:22.822556+00:00",
+    "symbol": "BTCUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T13:41:25.872632+00:00",
+    "symbol": "XAUTUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T14:02:47.899562+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T14:44:04.727533+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T15:06:58.355867+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T15:19:19.816541+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T15:32:40.990005+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-01T21:57:45.252567+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-02T10:05:36.095638+00:00",
+    "symbol": "ETHUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-02T10:05:44.547256+00:00",
+    "symbol": "SOLUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-02T10:05:47.974171+00:00",
+    "symbol": "BTCUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-02T10:05:50.873013+00:00",
+    "symbol": "XAUTUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  },
+  {
+    "timestamp": "2026-02-02T10:05:56.335195+00:00",
+    "symbol": "BNBUSDT",
+    "old_regime": "unknown",
+    "new_regime": "trend"
+  }
+]

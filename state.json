@@ -1,0 +1,11 @@
+{
+  "symbol": "ETHUSDT",
+  "position": {
+    "side": null,
+    "size": 0.0,
+    "entry_price": 0.0,
+    "partial_closed": false
+  },
+  "last_losses": [],
+  "pause_until": null
+}

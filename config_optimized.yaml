@@ -1,0 +1,16 @@
+symbol: ETHUSDT
+timeframe: '15'
+higher_timeframe: '240'
+use_mtf_trend_filter: true
+take_profit_atr: 4.0
+stop_loss_atr: 1.5
+order_block_volume_multiplier: 1.8
+risk_percentage: 0.01
+leverage: 3
+atr_period: 14
+short_sma_period: 21
+long_sma_period: 55
+warmup_bars: 200
+testnet: true
+dry_run: true
+log_level: INFO
