@@ -1,13 +1,13 @@
 # API Keys 
-api_key: "XBCySeitxQCVZyfBKY"
-api_secret: "PZLzk7bd8KAhKTnfnMXaceeLWVyFuwk47igW"
+api_key: ""
+api_secret: ""
 
 # Telegram
 telegram:
-  bot_token: "8385029203:AAEw9MIUVL2dNXjly1HQgHKY_rkAsdcK-yg"
+  bot_token: 
   chat_ids:
-    - 658484971
-    - 1642246482
+    - 4343535
+    - 7656764
 
 # Мульти-актив — список пар
 symbols:
@@ -46,4 +46,5 @@ demo: true
 dry_run: false                   # поставь false для реальной торговли
 
 # Логирование (20 = INFO)
+
 log_level: 20
